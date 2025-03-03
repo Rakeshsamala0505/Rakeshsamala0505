@@ -2,8 +2,8 @@
 <h3 align="center">Aspiring Software Engineer | Passionate about Web Development, Automation, and Continuous Learning</h3>
 
 
-
-- 🔭 I’m currently working on **Rentify**
+- 🔭 I’m currently working as a **Software Developer** at **IIMR** 
+- 🔭 build a full stack application on **Rentify** a rental application
 
 - 🌱 I’m currently learning **React.js Node.js Django**
 
