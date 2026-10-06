@@ -5,13 +5,13 @@
 - 🔭 I’m currently working as a **Software Developer** at **Indian Institute of Millets Research (IIMR), Hyderabad** 
 - 🔭 build a full stack application on **Rentify** a rental application
 
-- 🌱 I’m currently learning **React.js Node.js Django**
+- 🌱 I’m currently working on  **React.js Node.js python**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Full stack Projects**
 
 - 👨‍💻 All of my projects are available at [https://rakeshsamala0505.github.io/](https://rakeshsamala0505.github.io/)
 
-- 💬 Ask me about **React.js Python Node Express Api Testing MySql MongoDB**
+- 💬 Ask me about **React.js Python Node Express Api Testing MySql **
 
 - 📫 How to reach me **rakeshsamala0505@gmail.com**
 
